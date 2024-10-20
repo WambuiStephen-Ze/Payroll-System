@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Payrol system\Payrol system\bin\Debug\net8.0-windows\Payrol system.exe
+C:\Users\admin\source\repos\Payrol system\Payrol system\bin\Debug\net8.0-windows\Payrol system.deps.json
+C:\Users\admin\source\repos\Payrol system\Payrol system\bin\Debug\net8.0-windows\Payrol system.runtimeconfig.json
+C:\Users\admin\source\repos\Payrol system\Payrol system\bin\Debug\net8.0-windows\Payrol system.dll
+C:\Users\admin\source\repos\Payrol system\Payrol system\bin\Debug\net8.0-windows\Payrol system.pdb
+C:\Users\admin\source\repos\Payrol system\Payrol system\obj\Debug\net8.0-windows\Payrol_system.Form1.resources
+C:\Users\admin\source\repos\Payrol system\Payrol system\obj\Debug\net8.0-windows\Payrol system.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\Payrol system\Payrol system\obj\Debug\net8.0-windows\Payrol system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Payrol system\Payrol system\obj\Debug\net8.0-windows\Payrol system.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Payrol system\Payrol system\obj\Debug\net8.0-windows\Payrol system.AssemblyInfo.vb
+C:\Users\admin\source\repos\Payrol system\Payrol system\obj\Debug\net8.0-windows\Payrol system.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Payrol system\Payrol system\obj\Debug\net8.0-windows\Payrol system.dll
+C:\Users\admin\source\repos\Payrol system\Payrol system\obj\Debug\net8.0-windows\refint\Payrol system.dll
+C:\Users\admin\source\repos\Payrol system\Payrol system\obj\Debug\net8.0-windows\Payrol system.pdb
+C:\Users\admin\source\repos\Payrol system\Payrol system\obj\Debug\net8.0-windows\Payrol system.genruntimeconfig.cache
+C:\Users\admin\source\repos\Payrol system\Payrol system\obj\Debug\net8.0-windows\ref\Payrol system.dll
